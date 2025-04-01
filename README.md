@@ -1,6 +1,6 @@
 # Finn's Overhauled Skyrim 🏰
 
-Finn's Overhauled Skyrim - My Personal Modlist for Skyrim
+My Personal Modlist for Skyrim
 
 ![Finn's Overhauled Skyrim Thumbnail](FinnOS-Thumbnail.png)
 
