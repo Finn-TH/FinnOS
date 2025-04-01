@@ -14,7 +14,7 @@ This is a personal modlist I put together for my own use, sharing it for friends
 
 - **GPU**: RTX 4070 Super
 - **CPU**: Ryzen 7600X
-- **RAM**: 32GB DDR5 🧠
+- **RAM**: 32GB DDR5
 - **SSD**: 2TB NVME
 - **Resolution**: 1440p
 
